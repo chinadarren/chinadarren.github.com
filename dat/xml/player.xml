@@ -1,4 +1,0 @@
-﻿<player showDisplay="yes" autoStart="yes">
-   		<song path="dat/Music/music.mp3" title="Song Title 1"/>   
-     		<song path="dat/Music/music.mp3" title="Song Title 2"/>
-</player>
