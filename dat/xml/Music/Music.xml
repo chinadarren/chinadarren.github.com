@@ -1,0 +1,38 @@
+﻿<DynamicWeb>
+	<Sections>
+	
+	<work type="JAZZ">
+			<data Img="dat/Images/Folio/thumb.jpg" mp3="dat//Music/music.mp3" titlex="music" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Loren Ipsum irure dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</data>
+			
+			
+			<data Img="dat/Images/Folio/thumb2.jpg" mp3="dat//Music/music1.mp3" titlex="VIdeo2" BigThumb="dat/Images/Folio/thumbB2.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id.</data>
+			
+			
+			<data Img="dat/Images/Folio/thumb3.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo3" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</data>
+	 </work>
+
+		<work type="ROCK">
+			<data Img="dat/Images/Folio/thumb4.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo4" BigThumb="dat/Images/Folio/thumbB2.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt.</data>
+	 </work>
+		
+		<work type="CLASSIC">
+			<data Img="dat/Images/Folio/thumb.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb2.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB2.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb3.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+
+			
+			<data Img="dat/Images/Folio/thumb4.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB2.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb2.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB2.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb3.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+			
+			<data Img="dat/Images/Folio/thumb4.jpg" mp3="dat//Music/music.mp3" titlex="VIdeo5" BigThumb="dat/Images/Folio/thumbB.jpg" BigImg="dat/Images/Folio/BigImg.jpg">Dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.</data>
+	 </work>
+
+	</Sections>
+</DynamicWeb>
