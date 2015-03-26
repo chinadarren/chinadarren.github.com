@@ -1,0 +1,10 @@
+﻿
+a:link {
+  color:#FFCC00;
+  text-decoration: underline;
+}
+
+a:hover{
+  color: #666666;
+  text-decoration: none;
+}
