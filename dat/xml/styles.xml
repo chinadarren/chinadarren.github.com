@@ -1,8 +1,0 @@
-﻿<data head="SET SYTLE">
-	<interface id="grid" title="Grid"/>
-	<interface id="horizontal" title="Horizontal"/>
-	<interface id="vertical" title="Vertical"/>
-	<interface id="wave" title="Wave"/>
-	<interface id="circle" title="Circle"/>
-	<interface id="ring" title="Ring"/>
-</data>
