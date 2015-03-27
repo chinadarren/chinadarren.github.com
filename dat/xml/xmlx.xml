@@ -1,0 +1,43 @@
+﻿<DynamicWeb>
+
+<!--
+p=15 News
+p=25 About
+p=35 Folio
+p=45 Music
+p=55 Video
+p=65 Contact
+
+
+-->
+
+
+
+<Sections id="menu">
+		
+
+		<Menu btnName="FOLIO" p="35" f="Folio" title="OUR WORK" css="folio"></Menu>
+		<Menu btnName="FOLIO Gallery" p="35" f="Folio" title="OUR WORK" css="folio"></Menu>
+		<Menu btnName="MUSIC" p="45" f="Music" title="MUSIC" css="folio"></Menu>
+		<Menu btnName="MOVIES" p="55" f="Videos" title="VIDEOS" css="folio"></Menu>
+		<Menu btnName="ABOUT US" p="25" f="About" title="ABOUT US" css="about"></Menu>
+		<Menu btnName="ABOUT US 2" p="25" f="About" title="ABOUT US" css="about"></Menu>
+		<Menu btnName="NEWS" p="15" f="News" title="NEWS &amp; UPDATES" css="news" ></Menu>
+		<Menu btnName="NEWS 2" p="15" f="News" title="NEWS &amp; UPDATES" css="news" ></Menu>
+		<Menu btnName="CONTACT" p="65" f="Contact" title="CONTACT US" css="contact"></Menu>
+</Sections>
+
+<Sections id="logo">
+		<data>XML DESIGN</data>
+		<data>VISUAL EFFECTS STUDIO <br/>PARIS, FRANCE</data>
+</Sections>
+
+<Sections id="contact">
+		<data>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />  <br />  <br />Company Name<br /><a href="mailto:demo@demo.com">demo@demo.com</a><br /><br /><br />+00 (0) 33 - 66 99 333 <br />Loren Ipsum 33<br />111 11 Dolor Sit <br />Country</data>
+</Sections>
+
+<Sections id="copy">
+		<data>(C) 2011. ALL RIGHTS ARE RESERVED.</data>
+</Sections>
+
+</DynamicWeb>
